@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @AleksejsSkripko
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning Fullstack Web Development and Testing.
+- 💞️ I’m looking to collaborate on JAVA
 - 📫 How to reach me 
 
+- Telegram: Aleksejs Skripko
+- Linkedin: Aleksejs Skripko
+- Skype: Leoonidovich
+- FB:
 https://www.facebook.com/profile.php?id=100004126987686
 
 <!---
