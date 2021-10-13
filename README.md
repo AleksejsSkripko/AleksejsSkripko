@@ -10,7 +10,7 @@
 - Telegram: Aleksejs Skripko
 - Linkedin: Aleksejs Skripko
 - Skype: Leoonidovich
-- FB:
+- Tap Link:
 https://tap.link/aleksejsskripko
 
 
