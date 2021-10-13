@@ -11,7 +11,7 @@
 - Linkedin: Aleksejs Skripko
 - Skype: Leoonidovich
 - FB:
-https://www.facebook.com/profile.php?id=100004126987686
+https://tap.link/aleksejsskripko
 
 
 
